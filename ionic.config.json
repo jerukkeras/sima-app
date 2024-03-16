@@ -1,0 +1,7 @@
+{
+  "name": "sima-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
